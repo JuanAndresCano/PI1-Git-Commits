@@ -1,7 +1,7 @@
 public class Car {
 
-    private final boolean wheels;
-    private final int cylinders;
+    private boolean wheels;
+    private int cylinders;
 
     public Car(boolean wheels, int cylinders) {
         this.wheels = wheels;
